@@ -86,7 +86,9 @@ body {
     margin-left: 15px;
     cursor: pointer;
 }
-
+.home-title .left span {
+    cursor: pointer;
+}
 
 .home-title .middle input {
     width: 50%;
